@@ -7,3 +7,4 @@ Set up to practice fMRI analysis using python and nilearn
 3. Install python: conda install python
 4. Install nilearn: pip install nilearn
 5. Install jupyter: pip install jupyter
+6. Install datalad and datalad-container: https://handbook.datalad.org/en/latest/intro/installation.html#install & pip install datalad-container
