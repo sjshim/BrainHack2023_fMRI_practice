@@ -11,11 +11,11 @@ Set up to practice fMRI analysis using python and nilearn
 
 ## Getting Started
 1. Fork and clone this repo onto your local computer.
-  a) Click the fork button on the upper right corner of this repo.
-  b) Navigate to your forked version of the repo.
-  c) Click the green code button to copy the HTTPS
-  d) Run: git clone 'copied repo path'
-  e) Move into the repo: cd BrainHack2023_fMRI_practice
+    a) Click the fork button on the upper right corner of this repo.
+    b) Navigate to your forked version of the repo.
+    c) Click the green code button to copy the HTTPS
+    d) Run: git clone 'copied repo path'
+    e) Move into the repo: cd BrainHack2023_fMRI_practice
 
 2. Open NARPS_first_level.ipynb: jupyter notebook NARPS_first_level.ipynb
 
