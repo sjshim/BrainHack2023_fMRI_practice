@@ -9,6 +9,12 @@ Set up to practice fMRI analysis using python and nilearn
 5. Install jupyter: pip install jupyter
 6. Install datalad and datalad-container: https://handbook.datalad.org/en/latest/intro/installation.html#install & pip install datalad-container
 
+## General Linear Model Analysis
+Useful resources:
+1. Nilearn based guidebook about GLM: https://nilearn.github.io/stable/glm/index.html
+2. Slightly longer text about GLM in neuroimaging (even though the title is "Short Intro to GLM"): https://www.fmrib.ox.ac.uk/primers/appendices/glm.pdf
+3. Nilearn tutorials, I would highly recommend looking through these to familiarize yourself with the different functions nilearn offers!: https://nilearn.github.io/stable/auto_examples/04_glm_first_level/index.html
+
 ## Getting Started
 1. Fork and clone this repo onto your local computer.
     a) Click the fork button on the upper right corner of this repo.
