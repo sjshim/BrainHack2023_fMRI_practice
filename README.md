@@ -29,3 +29,6 @@ Useful resources:
 There is a sample code for the NARPS_first_level.ipynb in the folder 'Sample_Code/NARPS_first_level_sample.ipynb'
 If you get stuck on parts of the notebook, you may get some hints/inspiration from the sample code. 
 The sample code is not going to be the only way to run this analysis! It's best to try to figure out which arguments you would want to use that best fit your interest. I'd be happy to chat about analysis choices that I'm more familiar with, but I'm also open to figuring out specific analytical choices together :) 
+
+## Other resources:
+BIDS documentation: https://bids.neuroimaging.io/
